@@ -1,0 +1,15 @@
+galaxy_info:
+  author: Kirill Kuzmin
+  description: HAProxy Load Balancer Role
+  license: MIT
+  min_ansible_version: "2.9"
+  role_name: haproxy
+  platforms:
+    - name: Ubuntu
+      versions:
+        - "jammy"
+        - "noble"
+  galaxy_tags:
+    - haproxy
+    - loadbalancer
+    - proxy
